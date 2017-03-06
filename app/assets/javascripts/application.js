@@ -12,10 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require jquery.min
 //= require bootstrap
 //= require jquery.flexslider
-//= require jquery.inview
+//= require jquery.inview 
 //= require script
 //= require_tree .
