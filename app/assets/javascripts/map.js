@@ -11,8 +11,4 @@ function initMap(){
       center: myLatlng
   };
   var map = new google.maps.Map(document.getElementById('google-map'), mapOptions);
-  // var marker = new google.maps.Marker({
-  //     position: myLatlng,
-  //     map: map
-  // });
 }
