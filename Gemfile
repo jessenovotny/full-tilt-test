@@ -9,6 +9,7 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'coffee-rails', '~> 4.2'
+gem 'dotenv-rails', groups: [:development, :test]
 gem 'flexslider', :git => 'https://github.com/constantm/Flexslider-2-Rails-Gem.git'
 gem "font-awesome-rails"
 gem 'inviewjs-rails', :git => 'https://github.com/rusanu/inviewjs-rails.git'
