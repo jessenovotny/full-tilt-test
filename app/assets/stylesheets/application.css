@@ -12,7 +12,7 @@
  *
  *= require flexslider
  *= require bootstrap
- *= require font-awesome.min
+ *= require font-awesome
  *= require style
  *= require_tree .
  *= require_self
